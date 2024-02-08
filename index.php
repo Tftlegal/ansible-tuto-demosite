@@ -8,7 +8,7 @@
 
   <p> App backend <?=gethostname()?> </p>
 
-    <img src="http://www.fillmurray.com/408/287" />
+    <img src="http://sytes.ru/assets/img/logo.jpg" />
   </body>
 </html>
 
